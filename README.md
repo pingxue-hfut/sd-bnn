@@ -1,7 +1,7 @@
 
 # SD-BNN
 
-This project is the PyTorch implementation of our CVPR 2021 submission paper : Self-Distribution Binary Neural Networks. 
+This project is the PyTorch implementation of our paper : Self-Distribution Binary Neural Networks. 
 
 **Binarization:** It is consistent with other BNNs tha we binarize all other convolutional layers except for the first and last layers of the networks.
 
