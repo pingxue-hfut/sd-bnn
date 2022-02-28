@@ -42,4 +42,8 @@ backward information retention for accurate binary neural networks. In 2020 IEEE
 [2] Adrian Bulat, Georgios Tzimiropoulos, Jean Kossaifi, and
 Maja Pantic. Improved training of binary networks for human pose estimation and image recognition. CoRR, abs/1904.05868, 2019.
 
+## Citation
 
+If you find our code useful for your research, please consider please consider citing:
+
+    Xue, P., Lu, Y., Chang, J. et al. Self-distribution binary neural networks. Appl Intell (2022). https://doi.org/10.1007/s10489-022-03348-z
