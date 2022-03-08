@@ -44,7 +44,7 @@ Maja Pantic. Improved training of binary networks for human pose estimation and 
 
 ## Citation
 
-If you find our code useful for your research, please consider please consider citing:
+If you find our code useful for your research, please consider citing:
 
     @article{xue2022self,
       title={Self-distribution binary neural networks},
