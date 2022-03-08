@@ -46,4 +46,13 @@ Maja Pantic. Improved training of binary networks for human pose estimation and 
 
 If you find our code useful for your research, please consider please consider citing:
 
-    Xue, P., Lu, Y., Chang, J. et al. Self-distribution binary neural networks. Appl Intell (2022). https://doi.org/10.1007/s10489-022-03348-z
+   @article{2022,
+   title={Self-distribution binary neural networks},
+   ISSN={1573-7497},
+   url={http://dx.doi.org/10.1007/s10489-022-03348-z},
+   DOI={10.1007/s10489-022-03348-z},
+   journal={Applied Intelligence},
+   publisher={Springer Science and Business Media LLC},
+   author={Xue, Ping and Lu, Yang and Chang, Jingfei and Wei, Xing and Wei, Zhen},
+   year={2022},
+   month={Feb} }
