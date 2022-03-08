@@ -48,11 +48,8 @@ If you find our code useful for your research, please consider please consider c
 
    @article{2022,
    title={Self-distribution binary neural networks},
-   ISSN={1573-7497},
-   url={http://dx.doi.org/10.1007/s10489-022-03348-z},
    DOI={10.1007/s10489-022-03348-z},
    journal={Applied Intelligence},
-   publisher={Springer Science and Business Media LLC},
    author={Xue, Ping and Lu, Yang and Chang, Jingfei and Wei, Xing and Wei, Zhen},
    year={2022},
    month={Feb} }
